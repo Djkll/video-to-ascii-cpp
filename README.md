@@ -11,7 +11,7 @@
     ```
 5. 在终端运行时请自行调整缩放大小。
 
-Windows平台可能有bug，比如“claar”是内部或外部命令，也不是可运行的程序。请讲system("clear")更改为system("cls")，或者解决本机系统环境变量问题。
+Windows平台可能有bug，比如“clear”是内部或外部命令，也不是可运行的程序。请将system("clear")更改为system("cls")，或者解决本机系统环境变量问题。
 Mac和Liunx完全适配。
 
 ## Dependencies
