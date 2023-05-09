@@ -11,6 +11,7 @@ This repository contains a C++ implementation of a real-time video-to-ASCII conv
 ```
 ./build.sh
 ```
+Windows platform may have bugs, please adjust the zoom factor when the terminal is running
 ## Dependencies
 This project depends on the following libraries:
 
